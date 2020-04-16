@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://redhossu.github.io</id>
     <title>红拂不干正经事</title>
-    <updated>2020-04-16T11:01:18.326Z</updated>
+    <updated>2020-04-16T11:13:52.974Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://redhossu.github.io"/>
     <link rel="self" href="https://redhossu.github.io/atom.xml"/>
@@ -11,17 +11,12 @@
     <rights>All rights reserved 2020, 红拂不干正经事</rights>
     <entry>
         <title type="html"><![CDATA[关于]]></title>
-        <id>https://redhossu.github.io/post/about/</id>
-        <link href="https://redhossu.github.io/post/about/">
+        <id>https://redhossu.github.io/post/guan-yu/</id>
+        <link href="https://redhossu.github.io/post/guan-yu/">
         </link>
-        <updated>2019-01-25T11:09:48.000Z</updated>
-        <content type="html"><![CDATA[<blockquote>
-<p>欢迎来到我的小站呀，很高兴遇见你！🤝</p>
-</blockquote>
-<h2 id="关于本站">🏠 关于本站</h2>
-<h2 id="博主是谁">👨‍💻 博主是谁</h2>
-<h2 id="兴趣爱好">⛹ 兴趣爱好</h2>
-<h2 id="联系我呀">📬 联系我呀</h2>
+        <updated>2020-04-16T11:06:35.000Z</updated>
+        <content type="html"><![CDATA[<p>自我监督用。<br>
+饭否140字限制话唠发挥，不得已。</p>
 ]]></content>
     </entry>
 </feed>
