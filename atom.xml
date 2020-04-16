@@ -2,13 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://redhossu.github.io</id>
     <title>红拂不干正经事</title>
-    <updated>2020-04-16T11:18:58.353Z</updated>
+    <updated>2020-04-16T15:52:45.041Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://redhossu.github.io"/>
     <link rel="self" href="https://redhossu.github.io/atom.xml"/>
     <logo>https://redhossu.github.io/images/avatar.png</logo>
     <icon>https://redhossu.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 红拂不干正经事</rights>
+    <entry>
+        <title type="html"><![CDATA[猪耳朵和蒜肠很搭]]></title>
+        <id>https://redhossu.github.io/post/zhu-er-duo-he-suan-chang-hen-da/</id>
+        <link href="https://redhossu.github.io/post/zhu-er-duo-he-suan-chang-hen-da/">
+        </link>
+        <updated>2020-04-16T15:44:33.000Z</updated>
+        <content type="html"><![CDATA[<p>说充实也充实。</p>
+<p>看了游戏系统书，看的不多想得多。<br>
+用github pages建了个没有字数限制的念念碎页面。<br>
+晚饭是猪耳朵蒜肠炒菠菜。猪耳朵和蒜肠意外的搭。<br>
+顺便因为这个gridea开始准备学点前端的知识。</p>
+<p>说懒惰也依旧懒惰。<br>
+昨天预备好的医院之行告吹。<br>
+放了好久的蔬菜还是有一点点烂掉了。痛定思痛，下定决心每周采购两次食材。</p>
+<p>依旧是好奇心浓重，依旧是不务正业，但还是能感觉和初中时候的自己有些许的不同。希望能稍微好一点，一点点。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[关于]]></title>
         <id>https://redhossu.github.io/post/about/</id>
