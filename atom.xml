@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://redhossu.github.io</id>
     <title>红拂不干正经事</title>
-    <updated>2020-05-03T01:39:54.256Z</updated>
+    <updated>2020-05-07T07:55:05.210Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://redhossu.github.io"/>
     <link rel="self" href="https://redhossu.github.io/atom.xml"/>
     <logo>https://redhossu.github.io/images/avatar.png</logo>
     <icon>https://redhossu.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 红拂不干正经事</rights>
+    <entry>
+        <title type="html"><![CDATA[回马枪]]></title>
+        <id>https://redhossu.github.io/post/5-7/</id>
+        <link href="https://redhossu.github.io/post/5-7/">
+        </link>
+        <updated>2020-05-07T03:13:14.000Z</updated>
+        <content type="html"><![CDATA[<p>晚了两天。</p>
+<p>首先要说的是语音团顺利结团了。kp 终于忍受不了每天高达5个小时的语音扮演，毅然决然决定提前 boss 战。他说：「光他们两个战斗人员，3回合就打了34伤害。我这可是一只高级合成兽啊！就三回合啊！去给我打 BOSS 啊！」</p>
+<p>总而言之，我们遇到了一场「世纪之战」：<br>
+2回合后，boss 受到伤害为0。<br>
+3回合后，三人濒死。<br>
+5回合后，半数战斗力开始互相攻击。<br>
+尾花夏树，全程，没有一次，成功。<br>
+本次战斗共有6个大失败和3个大成功。<br>
+战斗结尾：尾花夏树终于规划好了最佳的攻击路线，他高高跃起，越过怪物巨大细长的手臂，凌空展开身体，随后双手将他珍爱的主厨刀，直插进怪物的面门。怪物发出痛苦的尖叫，尾花顺势蹬着怪物的肩膀，拔出刀具，接一个漂亮的前滚翻落地。你们只看到随着一阵风吹过，怪物就像烟一样消散开了。</p>
+<p>插曲：<br>
+-「你飞身一个擒抱，扑倒了邪恶的主教，你要做什么？」<br>
+-「我搜一下主教的全身。」<br>
+-「嗯。」<br>
+-「然后把他裤子扒了。」<br>
+-「嗯？」<br>
+-「我拿走了主教的法杖，顺势把他的裤子褪掉脚踝，主教露出了黑色的秋裤。他还想继续逃跑，却因为裤子无法迈开步伐。」<br>
+-「嗯……」<br>
+-「那你以为？」<br>
+-「我没以为。」<br>
+（旁边副 kp：那可是我高贵的大主教啊！会隐身魔法的那种！）</p>
+<p>工作环节只能说变本加厉。我9点买了早餐，想着开完会吃，没想到直接变成了午餐。</p>
+<p>当我拉开大门的时候，我能感觉到，胳膊、肩膀、肩胛骨、脊背的肌肉骨骼，依次爆裂开来。大门停在那不动，我也几乎无法动弹。</p>
+<p>更新了关于。</p>
+<p>本以为已经结束了，没想到伴着雨水，春天刺了我一个回马枪。<br>
+回忆和雨水一样丰沛，我也希望我能生长起来。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tender is the Night]]></title>
         <id>https://redhossu.github.io/post/5-2/</id>
@@ -126,6 +159,10 @@
         <updated>2020-04-16T11:06:35.000Z</updated>
         <content type="html"><![CDATA[<p>自我监督用。<br>
 饭否140字限制话唠发挥，不得已。</p>
+<p>--2020.4.16</p>
+<hr>
+<p>众所周知，永恒分为永恒和更加永恒。本博客意在记录更加永恒的东西。</p>
+<p>--2020.5.7</p>
 ]]></content>
     </entry>
 </feed>
